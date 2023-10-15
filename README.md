@@ -1,7 +1,4 @@
-Certainly, here's the updated README content with the repository name "Weather-data-storage-with-python":
 
-markdown
-Copy code
 # Weather Data Storage with Python
 
 ## Overview
